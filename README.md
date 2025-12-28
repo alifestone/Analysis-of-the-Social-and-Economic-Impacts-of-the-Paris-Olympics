@@ -8,34 +8,34 @@
 ├── reviews.csv (Kaggle)<br>
 ├── listings.csv (Kaggle)<br>
 └── Reddit 爬蟲資料<br>
-         │<br>
-         ▼<br>
-    reddit_sensor_priority.ipynb<br>
-         │<br>
-         ▼<br>
-    airbnb_paris_translated_sentiment.csv<br>
-         │<br>
-         │     ml.ipynb<br>
-         │         │<br>
-         │         ▼<br>
-         │     (資料探索與視覺化)<br>
-         │<br>
-         │     ml_version2.py (記憶體優化版)<br>
-         │         │<br>
-         │         ▼<br>
-         │     price_comparison_result.csv<br>
-         │         │<br>
-         └────┬────┘<br>
-              │<br>
-              ▼<br>
-    ml_version2.py (ML分析版)<br>
-              │<br>
-              ▼<br>
-    ┌─────────────────┐<br>
-    │ • R² 表格       │<br>
-    │ • 相關性熱圖    │<br>
-    │ • 特徵重要性    │<br>
-    └─────────────────┘<br>
+&nbsp;         │<br>
+&nbsp;         ▼<br>
+&nbsp;    reddit_sensor_priority.ipynb<br>
+&nbsp;         │<br>
+&nbsp;         ▼<br>
+&nbsp;    airbnb_paris_translated_sentiment.csv<br>
+&nbsp;         │<br>
+&nbsp;         │&nbsp;     ml.ipynb<br>
+&nbsp;         │&nbsp;         │<br>
+&nbsp;         │&nbsp;         ▼<br>
+&nbsp;         │&nbsp;     (資料探索與視覺化)<br>
+&nbsp;         │<br>
+&nbsp;         │&nbsp;     ml_version2.py (記憶體優化版)<br>
+&nbsp;         │&nbsp;         │<br>
+&nbsp;         │&nbsp;         ▼<br>
+&nbsp;         │&nbsp;     price_comparison_result.csv<br>
+&nbsp;         │&nbsp;         │<br>
+&nbsp;         └────┬────┘<br>
+&nbsp;              │<br>
+&nbsp;              ▼<br>
+&nbsp;    ml_version2.py (ML分析版)<br>
+&nbsp;              │<br>
+&nbsp;              ▼<br>
+&nbsp;    ┌─────────────────┐<br>
+&nbsp;    │ • R² 表格&nbsp;       │<br>
+&nbsp;    │ • 相關性熱圖&nbsp;    │<br>
+&nbsp;    │ • 特徵重要性&nbsp;    │<br>
+&nbsp;    └─────────────────┘<br>
 <br>
 ## Author
 張逸安, 黃裕媞, 周聖詠, 謝蕙宇<br>
