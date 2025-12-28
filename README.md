@@ -4,7 +4,7 @@
 由於社群情緒受眾多潛在因素影響，資料極具雜訊，因此在實作層面，我們將資料依照留言主題（Airbnb、Olympic）分別建立模型，統一採用多種監督式回歸模型，並搭配特徵工程與模型評估流程。
 ## Workflow
 <img width="715" height="1251" alt="image" src="https://github.com/user-attachments/assets/24d85e45-148c-4087-b75b-31b0f406c51e" />
-<br>
+
 ## Author
 張逸安, 黃裕媞, 周聖詠, 謝蕙宇<br>
 指導老師：何承遠
