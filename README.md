@@ -32,7 +32,7 @@
 &nbsp;              │<br>
 &nbsp;              ▼<br>
 &nbsp;    ┌─────────────────┐<br>
-&nbsp;    │ • R² 表格&nbsp;       │<br>
+&nbsp;    │ • R² 表格&emsp;       │<br>
 &nbsp;    │ • 相關性熱圖&nbsp;    │<br>
 &nbsp;    │ • 特徵重要性&nbsp;    │<br>
 &nbsp;    └─────────────────┘<br>
